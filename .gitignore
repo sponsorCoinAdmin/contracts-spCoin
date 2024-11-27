@@ -1,6 +1,6 @@
 */artifacts/
 node_modules
-test.out
+test.out/*
 /.deps
 /.vscode/
 .env
